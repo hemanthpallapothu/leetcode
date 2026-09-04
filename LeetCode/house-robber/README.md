@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/house-robber/
 
-Solved on: 2026-08-24T11:44:14.000Z
+Solved on: 2026-09-04T10:52:02.000Z
 Language: cpp
 Difficulty: Medium
 Tags: Array, Dynamic Programming
