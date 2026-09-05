@@ -2,7 +2,7 @@
 
 Problem: https://leetcode.com/problems/binary-search/
 
-Solved on: 2026-07-26T09:32:44.000Z
+Solved on: 2026-09-05T13:20:26.000Z
 Language: cpp
 Difficulty: Easy
 Tags: Array, Binary Search
